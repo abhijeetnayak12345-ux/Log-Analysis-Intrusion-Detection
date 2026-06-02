@@ -1,4 +1,13 @@
-INTRUSION DETECTION REPORT
-==========================
 
-Suspicious IP: 192.168.1.10 (3 failed attempts)
+LOG ANALYSIS REPORT
+===================
+
+Total Log Entries : 8
+Successful Logins : 3
+Failed Logins     : 5
+
+SUSPICIOUS ACTIVITY DETECTED
+----------------------------
+
+HIGH RISK: 192.168.1.10 (3 failed attempts)
+MEDIUM RISK: 192.168.1.20 (2 failed attempts)
